@@ -8,16 +8,16 @@
 
 <!-- Introduction -->
 <p style="font-size: 14px;font-family: monospace;">
-As a front-end developer deeply passionate about the Vue framework, I have dedicated the past six years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem.
+As an enthusiastic front-end developer specializing in the Vue framework, I have dedicated myself to enhancing my skills in this area over the past few years. Currently, I am immersed in delving into the source code of Vue and its related ecosystem.
 
 My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in
 literature.
 
-At present, I am engrossed in the development of captivating and enjoyable front-end games.
+Currently, I am focused on learning cutting-edge front-end technologies and enjoy summarizing my learning outcomes.
 
 Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles.
 
-The traffic to my personal blog has surpassed one million reading quantity.
+The readership of my personal blog has already exceeded 100,000..
 
 If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to
 facilitate mutual progress.
@@ -31,7 +31,7 @@ facilitate mutual progress.
 </picture>
 
 <!-- My Top Open Source Projects -->
-<details open> 
+<!-- <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
 <h3>🎮 Games Ecosystem</h3>
@@ -67,16 +67,16 @@ facilitate mutual progress.
 </p>
 
 <a href="https://github.com/Medalc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+</details> -->
 
 <!-- My Code Time -->
-<details open>
-     <summary><h2>🔭 My Code Time</h2></summary>
+<!-- <details open>
+     <summary><h2>🔭 My Code Time</h2></summary> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2024%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2024%20mins-blue) -->
 
-**🐱 My GitHub Data** 
+<!-- **🐱 My GitHub Data** 
 
 > 🏆 605 Contributions in the Year 2024
  > 
@@ -87,8 +87,8 @@ facilitate mutual progress.
 > 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >  -->
+<!-- **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    155 commits    █████░░░░░░░░░░░░░░░░░░░░   22.83% 
@@ -144,12 +144,12 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2024
+ Last Updated on 27/04/2024 -->
 <!--END_SECTION:waka-->
 </details>
 
 <!-- Stats and Activity -->
-<details open> 
+<!-- <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
 <h3>🔥 Streak Stats</h3>
@@ -171,10 +171,10 @@ C#                       1 repo              ░░░░░░░░░░░�
 <a href="https://github.com/Medalc">
   <img alt="Medalc's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Medalc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
-</details>
+</details> -->
 
 <!-- My Favorite Tools -->
-<details open> 
+<!-- <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -194,23 +194,23 @@ C#                       1 repo              ░░░░░░░░░░░�
         src="https://skillicons.dev/icons?i=bash,vscode,postman,ps,ai,pr,ae,au,discord,gcp,gmail,github,githubactions"
     />
   </p>
-</details>
+</details> -->
 
 <!-- GitHub Trophies -->
-<details open> 
+<!-- <details open> 
   <summary><h2>🏆 GitHub Trophies</h2></summary>
 
   <p><a href="https://github.com/Medalc"><img src="https://github-profile-trophy.vercel.app/?username=Medalc&theme=discord&no-frame=true&no-bg=false&margin-w=4"></a></p>
-</details>
+</details> -->
 
 <!-- Holopin Badges -->
-<details> 
+<!-- <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@Medalc"><img src="https://holopin.me/@Medalc" alt="@Medalc&#39;s Holopin board"></a></p>
-</details>
+</details> -->
 
 <!-- GitHub Card -->
-<p>
+<!-- <p>
     <img alt="github" src="./imgs/github_background.jpeg" />
-</p>
+</p> -->
